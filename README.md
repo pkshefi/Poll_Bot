@@ -3,10 +3,13 @@
 A Bot who can do infinity voting
 
 
-
-
-poll ~ phython
+Installation:
 
 - install pip install
-config py
+
+- config py
+
+Create/Edit the file: 
+
+- run poll.py
 
